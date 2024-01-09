@@ -3,8 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.targeticon.com/images/GIF/JS-Stack-Development.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan1998dsa" alt="kishan1998dsa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan1998dsa&label=Profile%20views&color=0e75b6&style=flat" alt="kishan1998dsa" /> </p>
 
 - 🌱 I’m currently learning **Node js**
 
