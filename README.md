@@ -1,6 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)]
 <h1 align="center">Hi 👋, I'm Kishna Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan1998dsa&label=Profile%20views&color=0e75b6&style=flat" alt="kishan1998dsa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan1998dsa" alt="kishan1998dsa" /></a> </p>
